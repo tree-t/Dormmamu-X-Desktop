@@ -1,2 +1,2 @@
-# Gantu-desktop
-Some configs for desktop of Gantu OS
+# Dormmamu-X-desktop
+Some configs for desktop of Dormmomu-X
