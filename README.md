@@ -3,16 +3,16 @@ Some configs for desktop of Dormmomu-X
 
 # Intro
 
-* Starring:*
+** Starring:**
 
-	`Awesome wm` as window manager
+	*`Awesome wm` as window manager
 
-	`Nedit-ng` as text editor
+	*`Nedit-ng` as text editor
 
-	`Xlunch` as applauncher
+	*`Xlunch` as applauncher
 
-	`Viewnior` as photo viewer
+	*`Viewnior` as photo viewer
 
-	`PCman FM` as file manager
+	*`PCman FM` as file manager
 
-	`Plank` as dock
+	*`Plank` as dock
